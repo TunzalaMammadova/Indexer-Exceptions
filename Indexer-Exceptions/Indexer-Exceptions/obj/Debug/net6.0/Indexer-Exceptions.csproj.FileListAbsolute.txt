@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/bin/Debug/net6.0/Indexer-Exceptions
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/bin/Debug/net6.0/Indexer-Exceptions.deps.json
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/bin/Debug/net6.0/Indexer-Exceptions.runtimeconfig.json
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/bin/Debug/net6.0/Indexer-Exceptions.dll
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/bin/Debug/net6.0/Indexer-Exceptions.pdb
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/Indexer-Exceptions.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/Indexer-Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/Indexer-Exceptions.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/Indexer-Exceptions.AssemblyInfo.cs
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/Indexer-Exceptions.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/Indexer-Exceptions.dll
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/refint/Indexer-Exceptions.dll
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/Indexer-Exceptions.pdb
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/Indexer-Exceptions.genruntimeconfig.cache
+/Users/tunzale/Projects/Indexer-Exceptions/Indexer-Exceptions/obj/Debug/net6.0/ref/Indexer-Exceptions.dll

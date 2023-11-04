@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/bin/Debug/net6.0/Indexer-Exceptions-Homeworks
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/bin/Debug/net6.0/Indexer-Exceptions-Homeworks.deps.json
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/bin/Debug/net6.0/Indexer-Exceptions-Homeworks.runtimeconfig.json
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/bin/Debug/net6.0/Indexer-Exceptions-Homeworks.dll
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/bin/Debug/net6.0/Indexer-Exceptions-Homeworks.pdb
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/Indexer-Exceptions-Homeworks.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/Indexer-Exceptions-Homeworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/Indexer-Exceptions-Homeworks.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/Indexer-Exceptions-Homeworks.AssemblyInfo.cs
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/Indexer-Exceptions-Homeworks.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/Indexer-Exceptions-Homeworks.dll
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/refint/Indexer-Exceptions-Homeworks.dll
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/Indexer-Exceptions-Homeworks.pdb
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/Indexer-Exceptions-Homeworks.genruntimeconfig.cache
+/Users/tunzale/Projects/Indexer-Exceptions-Homeworks/Indexer-Exceptions-Homeworks/obj/Debug/net6.0/ref/Indexer-Exceptions-Homeworks.dll

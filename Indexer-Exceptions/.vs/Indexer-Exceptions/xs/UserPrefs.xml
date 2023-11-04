@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{04EE8D34-B193-4A8F-9482-3E2E1A4E3E4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Indexer-Exceptions/Exceptions/RegisterFailedExceptions.cs">
+    <Files>
+      <File FileName="Indexer-Exceptions/Program.cs" Line="66" Column="1" />
+      <File FileName="Indexer-Exceptions/Models/BaseEntity.cs" />
+      <File FileName="Indexer-Exceptions/Helpers/Constant/AccountMessages.cs" />
+      <File FileName="Indexer-Exceptions/Models/Person.cs" />
+      <File FileName="Indexer-Exceptions/Services/Interface/IPersonService.cs" />
+      <File FileName="Indexer-Exceptions/Services/PersonSeervice.cs" />
+      <File FileName="Indexer-Exceptions/Data/AppDbContext.cs" />
+      <File FileName="Indexer-Exceptions/Controllers/PersonController.cs" />
+      <File FileName="Indexer-Exceptions/Exceptions/RegisterFailedExceptions.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Indexer-Exceptions" expanded="True">
+            <Node name="Indexer-Exceptions" expanded="True">
+              <Node name="Exceptions" expanded="True">
+                <Node name="RegisterFailedExceptions.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Indexer-Exceptions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

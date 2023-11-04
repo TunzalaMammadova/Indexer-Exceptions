@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Indexer_Exceptions</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Exceptions\" />
+    <None Remove="Helpers\" />
+    <None Remove="Helpers\Constant\" />
+    <None Remove="Models\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Interface\" />
+    <None Remove="Data\" />
+    <None Remove="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Exceptions\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Helpers\Constant\" />
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interface\" />
+    <Folder Include="Data\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+</Project>
